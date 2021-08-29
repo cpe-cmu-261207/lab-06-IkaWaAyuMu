@@ -42,7 +42,7 @@ function App() {
         <Route path="/about">
           <div className='text-center space-y-3'>
             <p className='text-2xl font-semibold'>About me</p>
-            <p className='text-xl'>Chayanin Suatap 610631100</p>
+            <p className='text-xl'>Chayanon Pitak 630610724</p>
           </div>
         </Route>
       </switch>
